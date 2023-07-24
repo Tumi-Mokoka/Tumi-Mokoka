@@ -39,13 +39,13 @@ I am currently a 3rd year computer science student at the University of Cape Tow
 - strong ability to research, analyze and problem-solve independently
 
 ## Expereince
-1. 2-week summer internship at Energy Parters [July 2023]
+###### 2-week summer internship at Energy Parters [July 2023]
 -  Developed a light-weight web-appliction form that accepts parameters and uploads tabulated information to Google Cloud's BigQuery database
 -  expereince using Google Cloud services [Big-Query]
 -  developed a front-end using React, TypeScript and the Material UI library
 -  developed an API that plugs into Google Cloud's BigQuery databases
 
-2. 1-week Job Shadow at Sanlam's Data & Digital Academy [July 2023]
+###### 1-week Job Shadow at Sanlam's Data & Digital Academy [July 2023]
 - experience building UML diagrams for Technical Analysis
 - Seminars on Cloud services, DevOps, Cloud Security and Corporate Readiness
 
