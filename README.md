@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my Profile 😄 
 
 <!--
 **Tumi-Mokoka/Tumi-Mokoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,12 +31,23 @@ I am currently a 3rd year computer science student at the University of Cape Tow
 
 
 ## Skills
-- programming languages: Python, Java, C++, R
+- programming languages: Python, Java, C++, R, TypeScript, React
 - experience in Applied Mathematics, Statistics and Physics up to second year university level
 - extreme proficiency programming in Java and C++
 - extensive knowledge of object oriented problem-solving
 - Data analysis and manipulation using excel, R and Python
 - strong ability to research, analyze and problem-solve independently
+
+## Expereince
+1. 2-week summer internship at Energy Parters [July 2023]
+-  Developed a light-weight web-appliction form that accepts parameters and uploads tabulated information to Google Cloud's BigQuery database
+-  expereince using Google Cloud services [Big-Query]
+-  developed a front-end using React, TypeScript and the Material UI library
+-  developed an API that plugs into Google Cloud's BigQuery databases
+
+2. 1-week Job Shadow at Sanlam's Data & Digital Academy [July 2023]
+- experience building UML diagrams for Technical Analysis
+- Seminars on Cloud services, DevOps, Cloud Security and Corporate Readiness
 
 ## Personal Profile
 I am a highly motivated individual with a passion for programming and the cuttingedge intersection of finance and technology. I employ a meticulous and diligent approach to my personal and professional development. Seeking an Internship where I can get my hands dirty contributing to the organization in any way.
