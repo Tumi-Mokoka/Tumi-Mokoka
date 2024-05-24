@@ -38,7 +38,7 @@ I am currently a 3rd year computer science student at the University of Cape Tow
 - Data analysis and manipulation using excel, R and Python
 - strong ability to research, analyze and problem-solve independently
 
-## Expereince
+## Experience
 ###### 2-week summer internship at Energy Parters [July 2023]
 -  Developed a light-weight web-appliction form that accepts parameters and uploads tabulated information to Google Cloud's BigQuery database
 -  expereince using Google Cloud services [Big-Query]
